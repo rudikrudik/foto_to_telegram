@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  Токен телеграмм бота
 TOKEN = тут_токен_полученный_от_Bot_Father
 
@@ -117,7 +116,3 @@ IMAGE_SCHEDULE_DIR = 'D:\camera\schedule'
 
 #  Директория для архива фотографий по расписанию
 IMAGE_SCHEDULE_ARCH_DIR = 'D:\camera\schedule_arch'
-
-
-
->>>>>>> origin/master
