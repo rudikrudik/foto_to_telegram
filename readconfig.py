@@ -160,7 +160,7 @@ if config_dict.get('TIME_SEND', False):
             if hours_start == hours_stop:
                 if minutes_stop == minutes_start:
                     send_time.append(f'{hours_start:02}:{minutes_start:02}')
-                break
+                    break
 
             send_time.append(f'{hours_start:02}:{minutes_start:02}')
             minutes_start += interval
