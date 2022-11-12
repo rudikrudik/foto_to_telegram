@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+config.ini
+/foto
+/logs
+/3d
+/main
